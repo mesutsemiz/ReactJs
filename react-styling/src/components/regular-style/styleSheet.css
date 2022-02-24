@@ -1,0 +1,17 @@
+.logo {
+  width: 500px;
+  border: 3px solid red;
+}
+
+.header {
+  color: rgb(67, 230, 26);
+}
+
+.primary {
+  color: salmon;
+  font-size: 40px;
+}
+
+.secondary {
+  color: seagreen;
+}
